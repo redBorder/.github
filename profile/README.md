@@ -1,4 +1,4 @@
-# redBorder
+## We're redBorder!  👋
 
 Welcome to the GitHub profile of redBorder, an organization dedicated to crafting innovative cybersecurity solutions. Our mission is to protect and secure our clients' networks and systems against ever-evolving cyber threats.
 
