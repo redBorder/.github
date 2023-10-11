@@ -11,7 +11,7 @@ We would love for you to join us in our mission to strengthen cybersecurity! If 
 If you have any questions or need further information, feel free to get in touch with us:
 
 - Website: [https://www.redborder.com/](https://www.redborder.com/)
-- Email: [info@redborder.com](mailto:info@redborder.com)
+- Email: [git@redborder.com](mailto:git@redborder.com)
 
 Thank you for visiting our GitHub profile and your interest in our organization!
 
